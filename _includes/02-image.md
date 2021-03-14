@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![GitHub is petty handy!](https://miro.medium.com/max/4000/0*MZMl76wKo2FQLqG0.png)
